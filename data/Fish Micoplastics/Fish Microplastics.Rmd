@@ -13,22 +13,22 @@ library("janitor")
 ```
 
 ```{r}
-fish_microplastics <- Fish_Microplastics_Data_Repository
+microplastics <- read.csv("fish_microplastics.csv")
 ```
 
 ```{r}
-fish_microplastics %>%
+microplastics %>%
   clean_names()
 ```
 
 ```{r}
-fish_microplastics %>%
+microplastics %>%
   glimpse()%>%
   names() 
 ```
 
 ```{r}
-fish_microplastics %>%
+microplastics %>%
   distinct()
 ```
 
