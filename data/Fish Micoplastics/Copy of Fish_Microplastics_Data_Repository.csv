@@ -1,0 +1,421 @@
+Sample Batch,Fish ID,Sieve Size,# Fractions,Sample Label,Sample Type,Net Sample Mass (g),Dissection/Collection Date,Dissection or Field Blank ID,Digestion Blank ID,Particle Type,Color,Quantity,Hot Needle,Collection Lat,Collection Long
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,black,3,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,transparent,19,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,red,19,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,yellow,40,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,blue,5,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,blue,12,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,red,11,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_F,Fish Muscle,9.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,transparent,10,yes,27.42136,-82.64988
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_F,Fish Muscle,4.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,purple,2,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_F,Fish Muscle,4.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_F,Fish Muscle,4.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_F,Fish Muscle,4.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,blue,3,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_F,Fish Muscle,4.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_F,Fish Muscle,4.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,red,3,yes,27.31513,-82.54724
+Sept 2022,Af 1,NA,1,Af_1_19004_131022_F,Fish Muscle,23.2,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,yellow,1,yes,27.31513,-82.54724
+Sept 2022,Af 1,NA,1,Af_1_19004_131022_F,Fish Muscle,23.2,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Af 1,NA,1,Af_1_19004_131022_F,Fish Muscle,23.2,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,transparent,1,yes,27.31513,-82.54724
+Sept 2022,Af 1,NA,1,Af_1_19004_131022_F,Fish Muscle,23.2,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fragment_TWP,black,4,yes,27.31513,-82.54724
+Sept 2022,Af 1,NA,1,Af_1_19004_131022_F,Fish Muscle,23.2,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,red,2,yes,27.31513,-82.54724
+Sept 2022,Af 1,NA,1,Af_1_19004_131022_F,Fish Muscle,23.2,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Oc 29,NA,1,Oc_29_11142_271022_F,Fish Muscle,3.4,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_161122,Fiber_single,red,8,yes,27.42136,-82.64988
+Sept 2022,Oc 29,NA,1,Oc_29_11142_271022_F,Fish Muscle,3.4,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_161122,Fiber_single,yellow,2,yes,27.42136,-82.64988
+Sept 2022,Oc 29,NA,1,Oc_29_11142_271022_F,Fish Muscle,3.4,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_161122,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Oc 29,NA,1,Oc_29_11142_271022_F,Fish Muscle,3.4,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_161122,Fragment_nonTWP,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 29,NA,1,Oc_29_11142_271022_F,Fish Muscle,3.4,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_161122,Fiber_single,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Lr 10,NA,1,Lr_10_19004_041022_F,Fish Muscle,6.3,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_181122,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 10,NA,1,Lr_10_19004_041022_F,Fish Muscle,6.3,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_181122,Fiber_single,red,4,yes,27.31513,-82.54724
+Sept 2022,Lr 10,NA,1,Lr_10_19004_041022_F,Fish Muscle,6.3,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_181122,Fiber_single,blue,5,yes,27.31513,-82.54724
+Sept 2022,Lr 10,NA,1,Lr_10_19004_041022_F,Fish Muscle,6.3,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_181122,Fiber_single,transparent,1,yes,27.31513,-82.54724
+Sept 2022,Lr 10,NA,1,Lr_10_19004_041022_F,Fish Muscle,6.3,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_181122,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,blue,7,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,yellow,2,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,pink,4,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,transparent,8,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,black,2,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fragment_TWP,black,5,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Film,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,NA,1,Ob_18_11142_271022_F,Fish Muscle,3.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,yellowed,3,yes,27.42136,-82.64988
+Sept 2022,Oc 22,NA,1,Oc_22_11142_271022_F,Fish Muscle,3.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,yellowed,17,yes,27.42136,-82.64988
+Sept 2022,Oc 22,NA,1,Oc_22_11142_271022_F,Fish Muscle,3.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,yellow,1,yes,27.42136,-82.64988
+Sept 2022,Oc 22,NA,1,Oc_22_11142_271022_F,Fish Muscle,3.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,transparent,11,yes,27.42136,-82.64988
+Sept 2022,Oc 22,NA,1,Oc_22_11142_271022_F,Fish Muscle,3.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,pink,1,yes,27.42136,-82.64988
+Sept 2022,Oc 22,NA,1,Oc_22_11142_271022_F,Fish Muscle,3.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Oc 22,NA,1,Oc_22_11142_271022_F,Fish Muscle,3.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_181122,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Oc 30,NA,1,Oc_30_11142_201022_F,Fish Muscle,8.0,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_181122,Fiber_single,yellow,4,yes,27.42136,-82.64988
+Sept 2022,Oc 30,NA,1,Oc_30_11142_201022_F,Fish Muscle,8.0,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_181122,Fiber_single,pink,2,yes,27.42136,-82.64988
+Sept 2022,Oc 30,NA,1,Oc_30_11142_201022_F,Fish Muscle,8.0,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_181122,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Oc 30,NA,1,Oc_30_11142_201022_F,Fish Muscle,8.0,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_181122,Fiber_single,yellowed,5,yes,27.42136,-82.64988
+Sept 2022,Oc 30,NA,1,Oc_30_11142_201022_F,Fish Muscle,8.0,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_181122,Fiber_single,transparent,5,yes,27.42136,-82.64988
+Sept 2022,Oc 30,NA,1,Oc_30_11142_201022_F,Fish Muscle,8.0,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_181122,Fiber_single,blue,3,yes,27.42136,-82.64988
+Sept 2022,Oc 30,NA,1,Oc_30_11142_201022_F,Fish Muscle,8.0,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_181122,Fiber_single,black,1,yes,27.42136,-82.64988
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,yellowed,9,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,transparent,6,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,yellow,1,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,pink,1,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,blue,3,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,black,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,NA,1,Lr_4_19004_071022_F,Fish Muscle,13.4,07 Oct 22,Dissection_blank_071022_MP,Digestion_blank_181122,Fiber_single,red,1,yes,27.31513,-82.54724
+Sept 2022,Ob 17,NA,1,ob_17_19004_131022_f,Fish Muscle,3.9,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,yellowed,2,yes,27.42136,-82.64988
+Sept 2022,Ob 17,NA,1,ob_17_19004_131022_f,Fish Muscle,3.9,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,yellowed,6,yes,27.42136,-82.64988
+Sept 2022,Ob 17,NA,1,ob_17_19004_131022_f,Fish Muscle,3.9,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,black,2,yes,27.42136,-82.64988
+Sept 2022,Ob 17,NA,1,ob_17_19004_131022_f,Fish Muscle,3.9,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Ob 17,NA,1,ob_17_19004_131022_f,Fish Muscle,3.9,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Ob 17,NA,1,ob_17_19004_131022_f,Fish Muscle,3.9,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,red,2,yes,27.42136,-82.64988
+Sept 2022,Lr 8,NA,1,Lr_8_19004_131022_F,Fish Muscle,16.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,black,3,yes,27.31513,-82.54724
+Sept 2022,Lr 8,NA,1,Lr_8_19004_131022_F,Fish Muscle,16.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,red,3,yes,27.31513,-82.54724
+Sept 2022,Lr 8,NA,1,Lr_8_19004_131022_F,Fish Muscle,16.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,transparent,11,yes,27.31513,-82.54724
+Sept 2022,Lr 8,NA,1,Lr_8_19004_131022_F,Fish Muscle,16.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fiber_single,yellowed,4,yes,27.31513,-82.54724
+Sept 2022,Lr 8,NA,1,Lr_8_19004_131022_F,Fish Muscle,16.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_102022,Fragment_TWP,black,1,yes,27.31513,-82.54724
+Sept 2022,OC 14,NA,1,Oc_14_19004_131022_F,Fish Muscle,7.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_161122,Fiber_single,black,3,yes,27.31513,-82.54724
+Sept 2022,OC 14,NA,1,Oc_14_19004_131022_F,Fish Muscle,7.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_161122,Fiber_single,transparent,8,yes,27.31513,-82.54724
+Sept 2022,OC 14,NA,1,Oc_14_19004_131022_F,Fish Muscle,7.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_161122,Fiber_single,yellowed,4,yes,27.31513,-82.54724
+Sept 2022,OC 14,NA,1,Oc_14_19004_131022_F,Fish Muscle,7.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_161122,Fiber_single,red,3,yes,27.31513,-82.54724
+Sept 2022,OC 14,NA,1,Oc_14_19004_131022_F,Fish Muscle,7.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_161122,Fiber_single,blue,5,yes,27.31513,-82.54724
+Sept 2022,OC 14,NA,1,Oc_14_19004_131022_F,Fish Muscle,7.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_161122,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_F,Fish Muscle,9.6,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,transparent,5,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_F,Fish Muscle,9.6,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,yellowed,3,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_F,Fish Muscle,9.6,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,black,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_F,Fish Muscle,9.6,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,red,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_F,Fish Muscle,9.6,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,pink,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_F,Fish Muscle,9.6,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_061122,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Oc 28,NA,1,Oc_28_11142_041122_F,Fish Muscle,6.2,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,black,3,yes,27.42136,-82.64988
+Sept 2022,Oc 28,NA,1,Oc_28_11142_041122_F,Fish Muscle,6.2,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,yellowed,2,yes,27.42136,-82.64988
+Sept 2022,Oc 28,NA,1,Oc_28_11142_041122_F,Fish Muscle,6.2,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 28,NA,1,Oc_28_11142_041122_F,Fish Muscle,6.2,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,transparent,2,yes,27.42136,-82.64988
+Sept 2022,Oc 28,NA,1,Oc_28_11142_041122_F,Fish Muscle,6.2,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Oc 26,NA,1,Oc_26_11142_271022_F,Fish Muscle,5.1,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_131222,Fiber_single,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Oc 26,NA,1,Oc_26_11142_271022_F,Fish Muscle,5.1,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_131222,Fiber_single,yellowed,2,yes,27.42136,-82.64988
+Sept 2022,Oc 26,NA,1,Oc_26_11142_271022_F,Fish Muscle,5.1,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_131222,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 20,NA,1,Ob_20_11147_271022_F,Fish Muscle,3.6,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_061122,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Ob 20,NA,1,Ob_20_11147_271022_F,Fish Muscle,3.6,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_061122,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 20,NA,1,Ob_20_11147_271022_F,Fish Muscle,3.6,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_061122,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Ob 20,NA,1,Ob_20_11147_271022_F,Fish Muscle,3.6,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_061122,Fiber_single,yellow,3,yes,27.42136,-82.64988
+Sept 2022,Ob 20,NA,1,Ob_20_11147_271022_F,Fish Muscle,3.6,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_061122,Fiber_single,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Ob 20,NA,1,Ob_20_11147_271022_F,Fish Muscle,3.6,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_061122,Fiber_single,yellowed,3,yes,27.42136,-82.64988
+Sept 2022,Ob 20,NA,1,Ob_20_11147_271022_F,Fish Muscle,3.6,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_061122,Fiber_single,black,2,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,blue,5,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,pink,2,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,transparent,2,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,orange,2,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,orange,1,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,yellow,2,yes,27.42136,-82.64988
+Sept 2022,Oc 25,NA,1,Oc_25_11142_271022_F,Fish Muscle,5.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,purple,2,yes,27.42136,-82.64988
+Sept 2022,Lr 12,NA,2,Lr_12_19004_071022_F,Fish Muscle,25.4,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_130123,Fiber_single,yellowed,17,yes,27.31513,-82.54724
+Sept 2022,Lr 12,NA,2,Lr_12_19004_071022_F,Fish Muscle,25.4,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_130123,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Lr 12,NA,2,Lr_12_19004_071022_F,Fish Muscle,25.4,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_130123,Fiber_single,red,2,yes,27.31513,-82.54724
+Sept 2022,Lr 12,NA,2,Lr_12_19004_071022_F,Fish Muscle,25.4,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_130123,Fiber_single,blue,5,yes,27.31513,-82.54724
+Sept 2022,Lr 12,NA,2,Lr_12_19004_071022_F,Fish Muscle,25.4,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_130123,Fiber_single,transparent,6,yes,27.31513,-82.54724
+Sept 2022,Lr 12,NA,2,Lr_12_19004_071022_F,Fish Muscle,25.4,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_130123,Fiber_single,green,1,yes,27.31513,-82.54724
+Sept 2022,Lr 12,NA,2,Lr_12_19004_071022_F,Fish Muscle,25.4,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_130123,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Ob 21,NA,1,Ob_21_11142_271022_F,Fish Muscle,7.9,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,transparent,5,yes,27.42136,-82.64988
+Sept 2022,Ob 21,NA,1,Ob_21_11142_271022_F,Fish Muscle,7.9,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,blue,4,yes,27.42136,-82.64988
+Sept 2022,Ob 21,NA,1,Ob_21_11142_271022_F,Fish Muscle,7.9,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 21,NA,1,Ob_21_11142_271022_F,Fish Muscle,7.9,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,red,3,yes,27.42136,-82.64988
+Sept 2022,Ob 21,NA,1,Ob_21_11142_271022_F,Fish Muscle,7.9,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_130123,Fiber_single,black,3,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,blue,6,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,transparent,6,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,pink,1,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,yellow,5,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,yellowed,7,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,green,1,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,black,2,yes,27.42136,-82.64988
+Sept 2022,Oc 24,NA,1,Oc_24_11142_271022_F,Fish Muscle,6.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Lr 9,NA,1,Lr_9_19004_11409_22_F,Fish Muscle,8.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_130123,Fiber_single,yellowed,7,yes,27.31513,-82.54724
+Sept 2022,Lr 9,NA,1,Lr_9_19004_11409_22_F,Fish Muscle,8.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_130123,Fiber_single,transparent,4,yes,27.31513,-82.54724
+Sept 2022,Lr 9,NA,1,Lr_9_19004_11409_22_F,Fish Muscle,8.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_130123,Fiber_single,pink,1,yes,27.31513,-82.54724
+Sept 2022,Lr 9,NA,1,Lr_9_19004_11409_22_F,Fish Muscle,8.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_130123,Fiber_single,green,1,yes,27.31513,-82.54724
+Sept 2022,Lr 9,NA,1,Lr_9_19004_11409_22_F,Fish Muscle,8.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_130123,Fiber_single,orange,1,yes,27.31513,-82.54724
+Sept 2022,Lr 9,NA,1,Lr_9_19004_11409_22_F,Fish Muscle,8.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_130123,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,green,4,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,transparent,3,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,red,2,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,yellowed,7,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,black,3,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,blue,8,yes,27.31513,-82.54724
+Sept 2022,Lr 5,NA,1,Lr_5_19004_271022_F,Fish Muscle,14.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_130123,Fiber_single,purple,1,yes,27.31513,-82.54724
+Sept 2022,Af 2,NA,1,Af_2_19004_131022_F,Fish Muscle,16.3,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,transparent,18,yes,27.31513,-82.54724
+Sept 2022,Af 2,NA,1,Af_2_19004_131022_F,Fish Muscle,16.3,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,yellowed,3,yes,27.31513,-82.54724
+Sept 2022,Af 2,NA,1,Af_2_19004_131022_F,Fish Muscle,16.3,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,blue,4,yes,27.31513,-82.54724
+Sept 2022,Af 2,NA,1,Af_2_19004_131022_F,Fish Muscle,16.3,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Af 2,NA,1,Af_2_19004_131022_F,Fish Muscle,16.3,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Af 2,NA,1,Af_2_19004_131022_F,Fish Muscle,16.3,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,orange,1,yes,27.31513,-82.54724
+Sept 2022,Af 2,NA,1,Af_2_19004_131022_F,Fish Muscle,16.3,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_131222,Fiber_single,purple,1,yes,27.31513,-82.54724
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,black,2,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,yellowed,3,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,transparent,6,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,transparent,3,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,blue,3,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,yellowed,2,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,orange,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,NA,1,Ob_19_11142_041122_F,Fish Muscle,5.3,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_131222,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Lr 7,NA,1,Lr_7_19004_131022_F,Fish Muscle,6.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_130123,Fiber_single,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Lr 7,NA,1,Lr_7_19004_131022_F,Fish Muscle,6.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_130123,Fiber_single,red,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,NA,1,Lr_7_19004_131022_F,Fish Muscle,6.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_130123,Fiber_single,orange,3,yes,27.31513,-82.54724
+Sept 2022,Lr 7,NA,1,Lr_7_19004_131022_F,Fish Muscle,6.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_130123,Fiber_single,blue,4,yes,27.31513,-82.54724
+Sept 2022,Lr 7,NA,1,Lr_7_19004_131022_F,Fish Muscle,6.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_130123,Fiber_single,yellowed,4,yes,27.31513,-82.54724
+Sept 2022,Lr 7,NA,1,Lr_7_19004_131022_F,Fish Muscle,6.0,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_130123,Fiber_single,pink,1,yes,27.31513,-82.54724
+Sept 2022,Oc 23,NA,1,Oc_23_11142_041122_F,Fish Muscle,5.0,04 Nov 22,Dissection_blank_041122_MP,digestion_blank_131222,Fiber_single,blue,8,yes,27.42136,-82.64988
+Sept 2022,Oc 23,NA,1,Oc_23_11142_041122_F,Fish Muscle,5.0,04 Nov 22,Dissection_blank_041122_MP,digestion_blank_131222,Fiber_single,black,2,yes,27.42136,-82.64988
+Sept 2022,Oc 23,NA,1,Oc_23_11142_041122_F,Fish Muscle,5.0,04 Nov 22,Dissection_blank_041122_MP,digestion_blank_131222,Fragment_nonTWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Oc 23,NA,1,Oc_23_11142_041122_F,Fish Muscle,5.0,04 Nov 22,Dissection_blank_041122_MP,digestion_blank_131222,Fiber_single,transparent,8,yes,27.42136,-82.64988
+Sept 2022,Oc 23,NA,1,Oc_23_11142_041122_F,Fish Muscle,5.0,04 Nov 22,Dissection_blank_041122_MP,digestion_blank_131222,Fiber_single,yellowed,3,yes,27.42136,-82.64988
+Sept 2022,Oc 23,NA,1,Oc_23_11142_041122_F,Fish Muscle,5.0,04 Nov 22,Dissection_blank_041122_MP,digestion_blank_131222,Fiber_single,orange,1,yes,27.42136,-82.64988
+Sept 2022,Oc 28,500,1,Oc_28_11142_041022_GI_500um,Fish GI,3.4,04 Oct 22,Dissection_blank_041022_MP,digestion_blank_270223,Fiber_single,transparent,42,yes,27.42136,-82.64988
+Sept 2022,Oc 28,500,1,Oc_28_11142_041022_GI_500um,Fish GI,3.4,04 Oct 22,Dissection_blank_041022_MP,digestion_blank_270223,Fiber_single,black,3,yes,27.42136,-82.64988
+Sept 2022,Oc 28,500,1,Oc_28_11142_041022_GI_500um,Fish GI,3.4,04 Oct 22,Dissection_blank_041022_MP,digestion_blank_270223,Fiber_single,orange,1,yes,27.42136,-82.64988
+Sept 2022,Oc 28,500,1,Oc_28_11142_041022_GI_500um,Fish GI,3.4,04 Oct 22,Dissection_blank_041022_MP,digestion_blank_270223,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,transparent,102,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Fiber_bundle,transparent,18,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,yellow,15,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Film,yellowed,5,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Film,transparent,14,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,red,2,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Film,red,8,yes,27.42136,-82.64988
+Sept 2022,Oc 25,500,1,Oc_25_11142_271022_500um,Fish GI,2.6,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,blue,3,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,transparent,42,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fragment_nonTWP,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,pink,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Film,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fragment_TWP,black,2,yes,27.42136,-82.64988
+Sept 2022,Ob 18,63,1,Ot_18_1142_271022_GI_63um,Fish GI,3.8,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 21,63,1,Ot_21_1142_271022_GI_63um,Fish GI,1.1,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,transparent,3,yes,27.42136,-82.64988
+Sept 2022,Ob 21,63,1,Ot_21_1142_271022_GI_63um,Fish GI,1.1,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,blue,3,yes,27.42136,-82.64988
+Sept 2022,Oc 22,500,1,Oc_22_1142_271022_GI_500um,Fish GI,2.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,black,1,yes,27.42136,-82.64988
+Sept 2022,Oc 22,500,1,Oc_22_1142_271022_GI_500um,Fish GI,2.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Film,transparent,6,yes,27.42136,-82.64988
+Sept 2022,Oc 22,500,1,Oc_22_1142_271022_GI_500um,Fish GI,2.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,transparent,33,yes,27.42136,-82.64988
+Sept 2022,Oc 22,500,1,Oc_22_1142_271022_GI_500um,Fish GI,2.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fiber_single,red,3,yes,27.42136,-82.64988
+Sept 2022,Oc 22,500,1,Oc_22_1142_271022_GI_500um,Fish GI,2.3,27 Oct 22,Dissection_blank_271022_MP,digestion_blank_270223,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Fiber_single,transparent,27,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Fiber_single,red,11,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Film,transparent,3,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Fiber_single,black,7,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Fiber_single,orange,2,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Fiber_single,green,2,yes,27.42136,-82.64988
+Sept 2022,Ob 20,38,1,Ob_20_11142_271022_GI_38um,Fish GI,4.3,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_100423,Fiber_bundle,transparent,6,yes,27.42136,-82.64988
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Film,transparent,4,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_bundle,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,red,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,purple,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,transparent,13,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,yellowed,3,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,black,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,2,Lr_4_19004_071022_GI_500um,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Oc 14,500,2,Oc_14_19004_121022_GI_500um,Fish GI,2.7,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,transparent,8,yes,27.31513,-82.54724
+Sept 2022,Oc 14,500,2,Oc_14_19004_121022_GI_500um,Fish GI,2.7,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Oc 14,500,2,Oc_14_19004_121022_GI_500um,Fish GI,2.7,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,red,3,yes,27.31513,-82.54724
+Sept 2022,Oc 14,500,2,Oc_14_19004_121022_GI_500um,Fish GI,2.7,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,orange,1,yes,27.31513,-82.54724
+Sept 2022,Ob 19,38,1,Ob_19_11142_041122_38um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,transparent,109,yes,27.42136,-82.64988
+Sept 2022,Ob 19,38,1,Ob_19_11142_041122_38um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_bundle,transparent,16,yes,27.42136,-82.64988
+Sept 2022,Ob 19,38,1,Ob_19_11142_041122_38um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,38,1,Ob_19_11142_041122_38um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,38,1,Ob_19_11142_041122_38um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,green,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,38,1,Ob_19_11142_041122_38um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,orange,2,yes,27.42136,-82.64988
+Sept 2022,Ob 19,38,1,Ob_19_11142_041122_38um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Oc 25,38,1,Oc_25_11142_271022_38um,Fish GI,2.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,black,5,yes,27.42136,-82.64988
+Sept 2022,Oc 25,38,1,Oc_25_11142_271022_38um,Fish GI,2.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,transparent,62,yes,27.42136,-82.64988
+Sept 2022,Oc 25,38,1,Oc_25_11142_271022_38um,Fish GI,2.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Oc 25,38,1,Oc_25_11142_271022_38um,Fish GI,2.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_bundle,transparent,4,yes,27.42136,-82.64988
+Sept 2022,Oc 25,38,1,Oc_25_11142_271022_38um,Fish GI,2.6,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,orange,2,yes,27.42136,-82.64988
+Sept 2022,Lr 4,500,1,Lr_4_19004_071022_GI_500um 2/2,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Film,transparent,4,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,1,Lr_4_19004_071022_GI_500um 2/2,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,transparent,12,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,1,Lr_4_19004_071022_GI_500um 2/2,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fragment_nonTWP,brown,1,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,1,Lr_4_19004_071022_GI_500um 2/2,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,1,Lr_4_19004_071022_GI_500um 2/2,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fragment_nonTWP,yellowed,5,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500,1,Lr_4_19004_071022_GI_500um 2/2,Fish GI,3.7,07 Oct 22,Dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,pink,1,yes,27.31513,-82.54724
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,black,4,yes,27.42136,-82.64988
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fragment_nonTWP,transparent,,yes,27.42136,-82.64988
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,yellowed,20,yes,27.42136,-82.64988
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,transparent,35,yes,27.42136,-82.64988
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,orange,2,yes,27.42136,-82.64988
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,purple,1,yes,27.42136,-82.64988
+Sept 2022,Oc 24,63,1,Oc_24_11142_271022_GI_63um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 24,500,1,Oc_24_11142_271022_GI_500um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,red,6,yes,27.42136,-82.64988
+Sept 2022,Oc 24,500,1,Oc_24_11142_271022_GI_500um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,yellowed,34,yes,27.42136,-82.64988
+Sept 2022,Oc 24,500,1,Oc_24_11142_271022_GI_500um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,transparent,53,yes,27.42136,-82.64988
+Sept 2022,Oc 24,500,1,Oc_24_11142_271022_GI_500um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Film,transparent,25,yes,27.42136,-82.64988
+Sept 2022,Oc 24,500,1,Oc_24_11142_271022_GI_500um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_bundle,transparent,6,yes,27.42136,-82.64988
+Sept 2022,Oc 24,500,1,Oc_24_11142_271022_GI_500um,Fish GI,1.8,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_290523,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,63,1,Ob_19_11142_041122 63um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,orange,5,yes,27.42136,-82.64988
+Sept 2022,Ob 19,63,1,Ob_19_11142_041122 63um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,transparent,67,yes,27.42136,-82.64988
+Sept 2022,Ob 19,63,1,Ob_19_11142_041122 63um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Film,transparent,14,yes,27.42136,-82.64988
+Sept 2022,Ob 19,63,1,Ob_19_11142_041122 63um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,yellowed,4,yes,27.42136,-82.64988
+Sept 2022,Ob 19,63,1,Ob_19_11142_041122 63um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,black,3,yes,27.42136,-82.64988
+Sept 2022,Ob 19,63,1,Ob_19_11142_041122 63um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,red,2,yes,27.42136,-82.64988
+Sept 2022,Ob 19,63,1,Ob_19_11142_041122 63um,Fish GI,9.0,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_100423,Fiber_single,blue,5,yes,27.42136,-82.64988
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Film,yellowed,3,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Film,transparent,6,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,transparent,16,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,,transparent,5,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Film,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,red,4,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,black,4,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Af 2,500,1,AF_2_19004_131022 500um,Fish GI,12.8,13 Oct 22,Dissection_blank_131022_MP,Digestion_blank_100423,Fiber_single,orange,1,yes,27.31513,-82.54724
+Sept 2022,Ob 17,LG,1,Ot_17_11142_041122_GI_LG,Fish GI,2.4,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_270223,Fiber_single,transparent,3,yes,27.42136,-82.64988
+Sept 2022,Ob 17,LG,1,Ot_17_11142_041122_GI_LG,Fish GI,2.4,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_270223,Film,transparent,2,yes,27.42136,-82.64988
+Sept 2022,Ob 17,LG,1,Ot_17_11142_041122_GI_LG,Fish GI,2.4,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_270223,Fiber_single,black,5,yes,27.42136,-82.64988
+Sept 2022,Ob 17,LG,1,Ot_17_11142_041122_GI_LG,Fish GI,2.4,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_270223,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Ob 17,LG,1,Ot_17_11142_041122_GI_LG,Fish GI,2.4,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_270223,Fiber_single,blue,3,yes,27.42136,-82.64988
+Sept 2022,Ob 17,LG,1,Ot_17_11142_041122_GI_LG,Fish GI,2.4,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_270223,Film,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 17,LG,1,Ot_17_11142_041122_GI_LG,Fish GI,2.4,04 Nov 22,Dissection_blank_041122_MP,Digestion_blank_270223,Fiber_single,orange,1,yes,27.42136,-82.64988
+Sept 2022,Oc 26,500,1,Oc_26_1142_271022_GI_500um,Fish GI,3.7,27 Oct 22,Dissection_blank_271022_MP,Digestion_blank_270223,Fiber_single,transparent,3,yes,27.42136,-82.64988
+Sept 2022,Lr 3,500,1,Lr_3_19004_041022_GI_500um,Fish GI,4.1,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_270223,Fiber_single,orange,1,yes,27.31513,-82.54724
+Sept 2022,Lr 3,500,1,Lr_3_19004_041022_GI_500um,Fish GI,4.1,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_270223,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 3,500,1,Lr_3_19004_041022_GI_500um,Fish GI,4.1,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_270223,Fiber_single,red,1,yes,27.31513,-82.54724
+Sept 2022,Lr 3,500,1,Lr_3_19004_041022_GI_500um,Fish GI,4.1,04 Oct 22,Dissection_blank_041022_MP,Digestion_blank_270223,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Lr 9,63,1,Lr_9_19004_140922_GI * 63 um,Fish GI,2.1,07 Oct 22,dissection_blank_071022_MP,Digestion_blank_290523,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 9,63,1,Lr_9_19004_140922_GI * 63 um,Fish GI,2.1,07 Oct 22,dissection_blank_071022_MP,Digestion_blank_290523,Fiber_single,transparent,5,yes,27.31513,-82.54724
+Sept 2022,Lr 9,63,1,Lr_9_19004_140922_GI * 63 um,Fish GI,2.1,07 Oct 22,dissection_blank_071022_MP,Digestion_blank_290523,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Lr 9,63,1,Lr_9_19004_140922_GI * 63 um,Fish GI,2.1,07 Oct 22,dissection_blank_071022_MP,Digestion_blank_290523,Fragment_TWP,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 9,63,1,Lr_9_19004_140922_GI * 63 um,Fish GI,2.1,07 Oct 22,dissection_blank_071022_MP,Digestion_blank_290523,Fiber_single,yellowed,7,yes,27.31513,-82.54724
+Sept 2022,Lr 9,63,1,Lr_9_19004_140922_GI * 63 um,Fish GI,2.1,07 Oct 22,dissection_blank_071022_MP,Digestion_blank_290523,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_1/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fiber_single,yellowed,5,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_1/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_041122,Film,transparent,1,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_1/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fiber_single,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_1/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_041122,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fiber_single,orange,3,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_041122,Film,transparent,3,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fiber_single,yellowed,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_041122,Fiber_single,transparent,3,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fragment_nonTWP,transparent,1,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_041122,Fiber_bundle,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fragment_TWP,black,1,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_041122,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fiber_single,red,2,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_041122,Fiber_single,orange,1,yes,27.31513,-82.54724
+Sept 2022,Oc 15,NA,2,Oc_15_19004_201022_GI_2/2,Fish GI,1.7,20 Oct 22,Dissection_blank_201022_MP,digestion_blank_041122,Fragment_nonTWP,yellowed,1,yes,27.31513,-82.54724
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_GI,Fish GI,3.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_GI,Fish GI,3.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,transparent,42,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_GI,Fish GI,3.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Film,transparent,1,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_GI,Fish GI,3.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_GI,Fish GI,3.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 31,NA,1,Oc_31_11142_201022_GI,Fish GI,3.8,20 Oct 22,Dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,blue,2,yes,27.42136,-82.64988
+Sept 2022,Lr 4,500 um,2,Lr_4_19004_071022_GI_2/2,Fish GI,3.7,07 Oct 22,dissection_blank_071022_MP,digestion_blank_100423,Fiber_bundle,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500 um,2,Lr_4_19004_071022_GI_2/2,Fish GI,3.7,07 Oct 22,dissection_blank_071022_MP,digestion_blank_100423,Film,transparent,4,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500 um,2,Lr_4_19004_071022_GI_2/2,Fish GI,3.7,07 Oct 22,dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,transparent,12,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500 um,2,Lr_4_19004_071022_GI_2/2,Fish GI,3.7,07 Oct 22,dissection_blank_071022_MP,digestion_blank_100423,Fragment_nonTWP,brown,1,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500 um,2,Lr_4_19004_071022_GI_2/2,Fish GI,3.7,07 Oct 22,dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500 um,2,Lr_4_19004_071022_GI_2/2,Fish GI,3.7,07 Oct 22,dissection_blank_071022_MP,digestion_blank_100423,Fragment_nonTWP,yellowed,5,yes,27.31513,-82.54724
+Sept 2022,Lr 4,500 um,2,Lr_4_19004_071022_GI_2/2,Fish GI,3.7,07 Oct 22,dissection_blank_071022_MP,digestion_blank_100423,Fiber_single,pink,1,yes,27.31513,-82.54724
+Sept 2022,Lr 11,500 um,1,Lr_11_19004_071022_GI 500um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Lr 11,500 um,1,Lr_11_19004_071022_GI 500um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,transparent,5,yes,27.31513,-82.54724
+Sept 2022,Lr 11,500 um,1,Lr_11_19004_071022_GI 500um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Film,transparent,4,yes,27.31513,-82.54724
+Sept 2022,Lr 11,500 um,1,Lr_11_19004_071022_GI 500um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Film,yellowed,1,yes,27.31513,-82.54724
+Sept 2022,Lr 11,500 um,1,Lr_11_19004_071022_GI 500um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_bundle,transparent,8,yes,27.31513,-82.54724
+Sept 2022,Lr 11,500 um,1,Lr_11_19004_071022_GI 500um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,orange,4,yes,27.31513,-82.54724
+Sept 2022,Lr 10,500 um,1,Lr_10_19004_041022_GI 500um,Fish GI,2.7,04 Oct 22,dissection_blank_041022_MP,digestion_blank_290523,Fiber_single,orange,6,yes,27.31513,-82.54724
+Sept 2022,Lr 10,500 um,1,Lr_10_19004_041022_GI 500um,Fish GI,2.7,04 Oct 22,dissection_blank_041022_MP,digestion_blank_290523,Fiber_single,yellow,4,yes,27.31513,-82.54724
+Sept 2022,Lr 10,500 um,1,Lr_10_19004_041022_GI 500um,Fish GI,2.7,04 Oct 22,dissection_blank_041022_MP,digestion_blank_290523,Fiber_single,yellowed,3,yes,27.31513,-82.54724
+Sept 2022,Lr 10,500 um,1,Lr_10_19004_041022_GI 500um,Fish GI,2.7,04 Oct 22,dissection_blank_041022_MP,digestion_blank_290523,Fiber_single,multi,5,yes,27.31513,-82.54724
+Sept 2022,Lr 10,500 um,1,Lr_10_19004_041022_GI 500um,Fish GI,2.7,04 Oct 22,dissection_blank_041022_MP,digestion_blank_290523,Fiber_single,transparent,1,yes,27.31513,-82.54724
+Sept 2022,Lr 10,500 um,1,Lr_10_19004_041022_GI 500um,Fish GI,2.7,04 Oct 22,dissection_blank_041022_MP,digestion_blank_290523,Fiber_bundle,multi,11,yes,27.31513,-82.54724
+Sept 2022,Lr 10,500 um,1,Lr_10_19004_041022_GI 500um,Fish GI,2.7,04 Oct 22,dissection_blank_041022_MP,digestion_blank_290523,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_GI,Fish GI,2.1,20 Oct 22,dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,orange,3,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_GI,Fish GI,2.1,20 Oct 22,dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,yellowed,12,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_GI,Fish GI,2.1,20 Oct 22,dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,transparent,7,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_GI,Fish GI,2.1,20 Oct 22,dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,blue,2,yes,27.31513,-82.54724
+Sept 2022,Lr 13,NA,1,Lr_13_19004_201022_GI,Fish GI,2.1,20 Oct 22,dissection_blank_201022_MP,Digestion_blank_102022,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 5,500 um,1,Lr_5_19004_279022_GI 500um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_bundle,multi,5,yes,27.31513,-82.54724
+Sept 2022,Lr 5,500 um,1,Lr_5_19004_279022_GI 500um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,transparent,6,yes,27.31513,-82.54724
+Sept 2022,Lr 5,500 um,1,Lr_5_19004_279022_GI 500um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,blue,3,yes,27.31513,-82.54724
+Sept 2022,Lr 5,500 um,1,Lr_5_19004_279022_GI 500um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,yellowed,3,yes,27.31513,-82.54724
+Sept 2022,Lr 5,500 um,1,Lr_5_19004_279022_GI 500um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,orange,2,yes,27.31513,-82.54724
+Sept 2022,Lr 5,500 um,1,Lr_5_19004_279022_GI 500um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,black,2,yes,27.31513,-82.54724
+Sept 2022,Lr 5,500 um,1,Lr_5_19004_279022_GI 500um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Film,yellowed,2,yes,27.31513,-82.54724
+Sept 2022,Ob 19,500 um,1,Ot_19_11142_041122_GI_500um,Fish GI,9.0,04 Nov 22,dissection_blank_041122_MP,digestion_blank_100423,Fiber_single,black,4,yes,27.42136,-82.64988
+Sept 2022,Ob 19,500 um,1,Ot_19_11142_041122_GI_500um,Fish GI,9.0,04 Nov 22,dissection_blank_041122_MP,digestion_blank_100423,Fiber_single,transparent,11,yes,27.42136,-82.64988
+Sept 2022,Ob 19,500 um,1,Ot_19_11142_041122_GI_500um,Fish GI,9.0,04 Nov 22,dissection_blank_041122_MP,digestion_blank_100423,Fiber_single,orange,3,yes,27.42136,-82.64988
+Sept 2022,Ob 19,500 um,1,Ot_19_11142_041122_GI_500um,Fish GI,9.0,04 Nov 22,dissection_blank_041122_MP,digestion_blank_100423,Fiber_single,transparent,3,yes,27.42136,-82.64988
+Sept 2022,Ob 19,500 um,1,Ot_19_11142_041122_GI_500um,Fish GI,9.0,04 Nov 22,dissection_blank_041122_MP,digestion_blank_100423,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,500 um,1,Ot_19_11142_041122_GI_500um,Fish GI,9.0,04 Nov 22,dissection_blank_041122_MP,digestion_blank_100423,Film,yellowed,1,yes,27.42136,-82.64988
+Sept 2022,Ob 19,500 um,1,Ot_19_11142_041122_GI_500um,Fish GI,9.0,04 Nov 22,dissection_blank_041122_MP,digestion_blank_100423,Fiber_single,purple,1,yes,27.42136,-82.64988
+Sept 2022,Lr 8,63 um,1,Lr_8_19004_131022_GI_63um,Fish GI,4.9,13 Oct 22,dissection_blank_131022_MP,digestion_blank_290523,Fiber_single,transparent,12,yes,27.31513,-82.54724
+Sept 2022,Lr 8,63 um,1,Lr_8_19004_131022_GI_63um,Fish GI,4.9,13 Oct 22,dissection_blank_131022_MP,digestion_blank_290523,Fiber_single,yellowed,3,yes,27.31513,-82.54724
+Sept 2022,Lr 8,63 um,1,Lr_8_19004_131022_GI_63um,Fish GI,4.9,13 Oct 22,dissection_blank_131022_MP,digestion_blank_290523,Fiber_single,orange,4,yes,27.31513,-82.54724
+Sept 2022,Lr 8,63 um,1,Lr_8_19004_131022_GI_63um,Fish GI,4.9,13 Oct 22,dissection_blank_131022_MP,digestion_blank_290523,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 8,63 um,1,Lr_8_19004_131022_GI_63um,Fish GI,4.9,13 Oct 22,dissection_blank_131022_MP,digestion_blank_290523,Fiber_bundle,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Oc 27,63 um,1,Oc_27_11142_201022_GI_63um,Fish GI,3.3,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,transparent,56,yes,27.42136,-82.64988
+Sept 2022,Oc 27,63 um,1,Oc_27_11142_201022_GI_63um,Fish GI,3.3,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Oc 27,63 um,1,Oc_27_11142_201022_GI_63um,Fish GI,3.3,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,yellowed,7,yes,27.42136,-82.64988
+Sept 2022,Oc 27,63 um,1,Oc_27_11142_201022_GI_63um,Fish GI,3.3,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,orange,10,yes,27.42136,-82.64988
+Sept 2022,Oc 27,63 um,1,Oc_27_11142_201022_GI_63um,Fish GI,3.3,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,black,3,yes,27.42136,-82.64988
+Sept 2022,Oc 27,63 um,1,Oc_27_11142_201022_GI_63um,Fish GI,3.3,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,red,3,yes,27.42136,-82.64988
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,transparent,12,yes,27.31513,-82.54724
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,green,1,yes,27.31513,-82.54724
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,black,2,yes,27.31513,-82.54724
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Film,yellowed,1,yes,27.31513,-82.54724
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,orange,5,yes,27.31513,-82.54724
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,purple,4,yes,27.31513,-82.54724
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Lr 11,63 um,1,Lr_11_19004_071022_GI_63um,Fish GI,4.0,07 Oct 22,dissection_blank_071022_MP,digestion_blank_290523,Film,transparent,2,yes,27.31513,-82.54724
+Sept 2022,Oc 24,38 um,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,transparent,12,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38 um,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_MP,digestion_blank_100423,Fragment_nonTWP,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38 um,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_MP,digestion_blank_100423,Fiber_bundle,transparent,2,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38 um,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,black,5,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38 um,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,orange,3,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38 um,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_MP,digestion_blank_100423,Fiber_single,blue,3,yes,27.42136,-82.64988
+Sept 2022,Lr 5,63 um,1,Lr_5_19004_271022_GI_63um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,purple,11,yes,27.31513,-82.54724
+Sept 2022,Lr 5,63 um,1,Lr_5_19004_271022_GI_63um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,transparent,10,yes,27.31513,-82.54724
+Sept 2022,Lr 5,63 um,1,Lr_5_19004_271022_GI_63um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_bundle,transparent,4,yes,27.31513,-82.54724
+Sept 2022,Lr 5,63 um,1,Lr_5_19004_271022_GI_63um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Film,transparent,1,yes,27.31513,-82.54724
+Sept 2022,Lr 5,63 um,1,Lr_5_19004_271022_GI_63um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,orange,8,yes,27.31513,-82.54724
+Sept 2022,Lr 5,63 um,1,Lr_5_19004_271022_GI_63um,Fish GI,4.7,27 Oct 22,dissection_blank_271022_MP,digestion_blank_290523,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,transparent,46,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Film,transparent,3,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,orange,4,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,yellowed,5,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,black,4,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_bundle,transparent,6,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,purple,1,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Oc 30,63 um,1,Oc_30_11142_201022_GI 63um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,yellowed,5,yes,27.42136,-82.64988
+Sept 2022,Oc 30,500 um,1,Oc_30_11142_201022_GI 500um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,transparent,52,yes,27.42136,-82.64988
+Sept 2022,Oc 30,500 um,1,Oc_30_11142_201022_GI 500um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Film,transparent,11,yes,27.42136,-82.64988
+Sept 2022,Oc 30,500 um,1,Oc_30_11142_201022_GI 500um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_bundle,transparent,6,yes,27.42136,-82.64988
+Sept 2022,Oc 30,500 um,1,Oc_30_11142_201022_GI 500um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,orange,5,yes,27.42136,-82.64988
+Sept 2022,Oc 30,500 um,1,Oc_30_11142_201022_GI 500um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,blue,1,yes,27.42136,-82.64988
+Sept 2022,Oc 30,500 um,1,Oc_30_11142_201022_GI 500um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,black,1,yes,27.42136,-82.64988
+Sept 2022,Oc 30,500 um,1,Oc_30_11142_201022_GI 500um,Fish GI,2.4,20 Oct 22,dissection_blank_201022_MP,digestion_blank_290523,Fiber_single,red,1,yes,27.42136,-82.64988
+Sept 2022,Lr 7,500,3,Lr_7_19004_131022_GI_500um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,transparent,17,yes,27.31513,-82.54724
+Sept 2022,Lr 7,500,3,Lr_7_19004_131022_GI_500um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Film,transparent,8,yes,27.31513,-82.54724
+Sept 2022,Lr 7,500,3,Lr_7_19004_131022_GI_500um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,yellowed,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,500,3,Lr_7_19004_131022_GI_500um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,black,3,yes,27.31513,-82.54724
+Sept 2022,Lr 7,500,3,Lr_7_19004_131022_GI_500um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,red,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,500,3,Lr_7_19004_131022_GI_500um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,purple,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,500,3,Lr_7_19004_131022_GI_500um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,blue,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,63,3,Lr_7_19004_131022_GI_63um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,black,7,yes,27.31513,-82.54724
+Sept 2022,Lr 7,63,3,Lr_7_19004_131022_GI_63um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fragment_TWP,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,63,3,Lr_7_19004_131022_GI_63um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,blue,6,yes,27.31513,-82.54724
+Sept 2022,Lr 7,63,3,Lr_7_19004_131022_GI_63um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,red,3,yes,27.31513,-82.54724
+Sept 2022,Lr 7,100,3,Lr_7_19004_131022_GI_100um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,yellowed,2,yes,27.31513,-82.54724
+Sept 2022,Lr 7,100,3,Lr_7_19004_131022_GI_100um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,transparent,15,yes,27.31513,-82.54724
+Sept 2022,Lr 7,100,3,Lr_7_19004_131022_GI_100um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,purple,4,yes,27.31513,-82.54724
+Sept 2022,Lr 7,100,3,Lr_7_19004_131022_GI_100um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,red,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,100,3,Lr_7_19004_131022_GI_100um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,black,1,yes,27.31513,-82.54724
+Sept 2022,Lr 7,100,3,Lr_7_19004_131022_GI_100um,Fish GI,5.8,13 Oct 22,dissection_blank_131022_mp,Digestion_blank_290523,Fiber_single,brown,1,yes,27.31513,-82.54724
+Sept 2022,Oc 24,38,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_mp,digestion_blank_100423,Fiber_single,yellowed,10,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_mp,digestion_blank_100423,Fiber_single,transparent,8,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_mp,digestion_blank_100423,Fiber_single,black,3,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_mp,digestion_blank_100423,Fragment_TWP,black,1,yes,27.42136,-82.64988
+Sept 2022,Oc 24,38,1,Oc_24_11142_271022_GI_38um,Fish GI,1.8,27 Oct 22,dissection_blank_271022_mp,digestion_blank_100423,Fiber_single,blue,2,yes,27.42136,-82.64988
