@@ -28,8 +28,8 @@ microplastics %>%
 ```
 
 ```{r}
-microplastics %>%
-  distinct()
+microplastics  %>%
+  gg_miss_var()
 ```
 
 
