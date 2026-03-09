@@ -8,16 +8,21 @@ output:
 ---
   
 ```{r message=FALSE, warning=FALSE}
-library("tidyverse")
-library("janitor")
-```
+library(tidyverse)
+library(janitor)
+library(naniar)
+library(ggmap)
+library(lubridate)
+library(shiny)
+library(dplyr)
+``` 
 
 ```{r}
 microplastics <- read.csv("fish_microplastics.csv")
 ```
 
 ```{r}
-microplastics %>%
+microplastics <- microplastics %>%
   clean_names()
 ```
 
@@ -30,6 +35,32 @@ microplastics %>%
 ```{r}
 microplastics  %>%
   gg_miss_var()
+```
+```{r}
+register_stadiamaps("280bdc76-265c-4420-af16-f3fc7ab98211", write = FALSE)
+```
+
+```{r}
+microplastics %>%
+  select(collection_lat, collection_long) %>%
+  summary()
+```
+
+```{r}
+lat <- c(27, 27.75)
+long <- c(-83, -82)
+bbox <- make_bbox(long, lat, f= 0.03)
+unique(microplastics$collection_long)
+```
+
+```{r}
+map_fish <- get_stadiamap(bbox, maptype = "stamen_terrain", zoom = 7)
+```
+
+```{r}
+ggmap(map_fish) +
+  geom_point(data = microplastics, aes(collection_long, collection_lat), size = 2, , alpha = 0.8)+ 
+  labs(x = "Longitude", y = "Latitude", title = "Collection Locations")
 ```
 
 
