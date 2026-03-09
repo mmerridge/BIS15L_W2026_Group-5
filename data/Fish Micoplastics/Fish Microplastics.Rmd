@@ -74,17 +74,20 @@ microplastics <- microplastics %>%
 ```{r, eval=F, echo=T}
 ui <- dashboardPage(
   
-  dashboardHeader(title = ""),
+  dashboardHeader(title = "Fish Microplastics"),
   
   dashboardSidebar(
     
-    
+    selectInput("x",
+                "Select a variable of interest",
+                choices = c("color", "particle_type", "sample_type"),
+                selected = "color")
     
   ),
   
   dashboardBody(
     
-    
+   plotOutput("plot", width = "500px", height = "400px") 
     
   )
 )
@@ -93,7 +96,11 @@ server <- function(input, output, session) {
 
   output$plot <- renderPlot({
     
-    
+  #microplastics %>%
+  #ggplot(aes(x= station, fill = [[input$x]])) +
+  #geom_bar(position = "dodge") +
+  #theme_classic() +
+  #labs(x = "Station")  
     
   })
 }
@@ -101,3 +108,11 @@ server <- function(input, output, session) {
 shinyApp(ui, server) 
 ```
 
+bar plot for count by station
+```{r}
+microplastics %>%
+  ggplot(aes(x= station, fill = color)) +
+  geom_bar(position = "dodge") +
+  theme_classic() +
+  labs(x = "Station", y = "Count of Fish Collected", title = "Count of Fish Collected by Station")
+```
