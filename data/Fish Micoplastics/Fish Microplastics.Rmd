@@ -59,8 +59,45 @@ map_fish <- get_stadiamap(bbox, maptype = "stamen_terrain", zoom = 7)
 
 ```{r}
 ggmap(map_fish) +
-  geom_point(data = microplastics, aes(collection_long, collection_lat), size = 2, , alpha = 0.8)+ 
+  geom_point(data = microplastics, aes(collection_long, collection_lat), size = 3, color = "blue" , alpha = 0.8)+ 
   labs(x = "Longitude", y = "Latitude", title = "Collection Locations")
 ```
+Make each location that fish were collected from (long values) into a new row 
+```{r}
+microplastics <- microplastics %>%
+  mutate(station = case_when(
+    collection_long == -82.64988 ~ "Station 1",
+    collection_long == -82.54724 ~ "Station 2"
+  ))
+```
 
+```{r, eval=F, echo=T}
+ui <- dashboardPage(
+  
+  dashboardHeader(title = ""),
+  
+  dashboardSidebar(
+    
+    
+    
+  ),
+  
+  dashboardBody(
+    
+    
+    
+  )
+)
+
+server <- function(input, output, session) {
+
+  output$plot <- renderPlot({
+    
+    
+    
+  })
+}
+
+shinyApp(ui, server) 
+```
 
