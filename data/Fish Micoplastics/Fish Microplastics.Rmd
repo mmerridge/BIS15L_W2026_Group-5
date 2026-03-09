@@ -15,6 +15,8 @@ library(ggmap)
 library(lubridate)
 library(shiny)
 library(dplyr)
+library(shinydashboard)
+library(ggplot2)
 ``` 
 
 ```{r}
@@ -71,23 +73,41 @@ microplastics <- microplastics %>%
   ))
 ```
 
+```{r}
+microplastics <- microplastics %>%
+  mutate(code = substr(fish_id, 1, 2),
+         species = case_when(
+           code == "Oc" ~ "orthopristis chrysoptera",
+           code == "OC" ~ "orthopristis chrysoptera",
+           code == "Lr" ~ "lagodon rhomboides",
+           code == "Af" ~ "ariopsis felis",
+           code == "Ob" ~ "opsanus beta"
+         ))
+```
+
 ```{r, eval=F, echo=T}
 ui <- dashboardPage(
+  
+  skin = "purple",
   
   dashboardHeader(title = "Fish Microplastics"),
   
   dashboardSidebar(
     
+    selectInput("z",
+                "Select a variable of interest",
+                choices = c("color", "particle_type", "sample_type", "species"),
+                selected = "color"),
+    
     selectInput("x",
                 "Select a variable of interest",
-                choices = c("color", "particle_type", "sample_type"),
-                selected = "color")
-    
+                choices = c("station", "species"),
+                selected = "station")
   ),
   
   dashboardBody(
     
-   plotOutput("plot", width = "500px", height = "400px") 
+    plotOutput("plot", width = "500px", height = "400px")
     
   )
 )
@@ -96,16 +116,16 @@ server <- function(input, output, session) {
 
   output$plot <- renderPlot({
     
-  #microplastics %>%
-  #ggplot(aes(x= station, fill = [[input$x]])) +
-  #geom_bar(position = "dodge") +
-  #theme_classic() +
-  #labs(x = "Station")  
+    microplastics %>%
+      ggplot(aes(x = .data[[input$x]], fill = .data[[input$z]])) +
+      geom_bar(position = "dodge") +
+      theme_classic() +
+      labs(x = input$x, fill = input$z)
     
   })
 }
 
-shinyApp(ui, server) 
+shinyApp(ui, server)
 ```
 
 bar plot for count by station
