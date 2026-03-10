@@ -159,7 +159,12 @@ microplastics %>%
   theme_classic() +
   labs(x = "Species", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Species")
 ```
-
+box plot of weights of each particle type 
 ```{r}
-
+microplastics %>%
+  filter(!is.na(particle_type)) %>%
+  ggplot(aes(x= particle_type, y = net_sample_mass_g)) +
+  geom_boxplot(fill = "aquamarine", color = "black") +
+  theme_classic() +
+  labs(x = "Particle Type", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Particle Type")
 ```
