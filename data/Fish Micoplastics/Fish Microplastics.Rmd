@@ -119,7 +119,7 @@ server <- function(input, output, session) {
     microplastics %>%
       ggplot(aes(x = .data[[input$x]], fill = .data[[input$z]])) +
       geom_bar(position = "dodge") +
-      theme_classic() +
+      theme_bw() +
       labs(x = input$x, fill = input$z)
     
   })
@@ -133,6 +133,33 @@ bar plot for count by station
 microplastics %>%
   ggplot(aes(x= station, fill = color)) +
   geom_bar(position = "dodge") +
-  theme_classic() +
+  theme_bw() +
   labs(x = "Station", y = "Count of Fish Collected", title = "Count of Fish Collected by Station")
+```
+
+
+make the blank box in particle_type into NA
+```{r}
+microplastics <- microplastics %>%
+  mutate(particle_type = na_if(particle_type, ""))
+```
+Boxplot of sample mass by species
+```{r}
+microplastics %>%
+  ggplot(aes(x= species, y = net_sample_mass_g)) +
+  geom_boxplot(fill = "aquamarine", color = "black") +
+  theme_classic() +
+  labs(x = "Species", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Species")
+```
+Boxplot of sample mass by station
+```{r}
+microplastics %>%
+  ggplot(aes(x= station, y = net_sample_mass_g)) +
+  geom_boxplot(fill = "aquamarine", color = "black") +
+  theme_classic() +
+  labs(x = "Species", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Species")
+```
+
+```{r}
+
 ```
