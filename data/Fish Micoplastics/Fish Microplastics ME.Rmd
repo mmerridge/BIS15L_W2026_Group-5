@@ -1,0 +1,138 @@
+---
+  title: "Fish Microplasstics"
+author: "Ashlee Pilon + Maison"
+date: "`r Sys.Date()`"
+output:
+  html_document: 
+  theme: spacelab
+---
+  
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(janitor)
+library(naniar)
+library(ggmap)
+library(lubridate)
+library(shiny)
+library(dplyr)
+library(shinydashboard)
+library(ggplot2)
+``` 
+
+```{r}
+microplastics <- read.csv("fish_microplastics.csv")
+```
+
+```{r}
+microplastics <- microplastics %>%
+  clean_names()
+```
+
+```{r}
+microplastics %>%
+  glimpse()%>%
+  names() 
+```
+
+```{r}
+microplastics  %>%
+  gg_miss_var()
+```
+```{r}
+register_stadiamaps("280bdc76-265c-4420-af16-f3fc7ab98211", write = FALSE)
+```
+
+```{r}
+microplastics %>%
+  select(collection_lat, collection_long) %>%
+  summary()
+```
+
+```{r}
+lat <- c(27, 27.75)
+long <- c(-83, -82)
+bbox <- make_bbox(long, lat, f= 0.03)
+unique(microplastics$collection_long)
+```
+
+```{r}
+map_fish <- get_stadiamap(bbox, maptype = "stamen_terrain", zoom = 7)
+```
+
+```{r}
+ggmap(map_fish) +
+  geom_point(data = microplastics, aes(collection_long, collection_lat), size = 3, color = "blue" , alpha = 0.8)+ 
+  labs(x = "Longitude", y = "Latitude", title = "Collection Locations")
+```
+Make each location that fish were collected from (long values) into a new row 
+```{r}
+microplastics <- microplastics %>%
+  mutate(station = case_when(
+    collection_long == -82.64988 ~ "Station 1",
+    collection_long == -82.54724 ~ "Station 2"
+  ))
+```
+
+```{r}
+microplastics <- microplastics %>%
+  mutate(code = substr(fish_id, 1, 2),
+         species = case_when(
+           code == "Oc" ~ "orthopristis chrysoptera",
+           code == "OC" ~ "orthopristis chrysoptera",
+           code == "Lr" ~ "lagodon rhomboides",
+           code == "Af" ~ "ariopsis felis",
+           code == "Ob" ~ "opsanus beta"
+         ))
+```
+
+```{r, eval=F, echo=T}
+ui <- dashboardPage(
+  
+  skin = "purple",
+  
+  dashboardHeader(title = "Fish Microplastics"),
+  
+  dashboardSidebar(
+    
+    selectInput("z",
+                "Select a variable of interest",
+                choices = c("color", "particle_type", "sample_type", "species"),
+                selected = "color"),
+    
+    selectInput("x",
+                "Select a variable of interest",
+                choices = c("station", "species"),
+                selected = "station")
+  ),
+  
+  dashboardBody(
+    
+    plotOutput("plot", width = "500px", height = "400px")
+    
+  )
+)
+
+server <- function(input, output, session) {
+
+  output$plot <- renderPlot({
+    
+    microplastics %>%
+      ggplot(aes(x = .data[[input$x]], fill = .data[[input$z]])) +
+      geom_bar(position = "dodge") +
+      theme_classic() +
+      labs(x = input$x, fill = input$z)
+    
+  })
+}
+
+shinyApp(ui, server)
+```
+
+bar plot for count by station
+```{r}
+microplastics %>%
+  ggplot(aes(x= station, fill = color)) +
+  geom_bar(position = "dodge") +
+  theme_classic() +
+  labs(x = "Station", y = "Count of Fish Collected", title = "Count of Fish Collected by Station")
+```
