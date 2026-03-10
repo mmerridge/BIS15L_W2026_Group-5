@@ -1,12 +1,10 @@
 ---
-  title: "Fish Microplasstics"
-author: "Ashlee Pilon + Maison"
-date: "`r Sys.Date()`"
-output:
-  html_document: 
-  theme: spacelab
+title: "Fish Microplastics"
+author: "Ashlee Pilon & Maison Erridge"
+date: "2026-03-10"
+output: html_document
 ---
-  
+
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 library(janitor)
@@ -20,24 +18,24 @@ library(ggplot2)
 library(readr)
 ``` 
 
-download the data (A)
+**download the data* (A)**
 ```{r}
-microplastics <- fish_microplastics
+microplastics <- read.csv("microplastics.csv")
 ```
 
-Clean names (A)
+**Clean names (A)**
 ```{r}
 microplastics <- microplastics %>%
   clean_names()
 ```
 
-Check NAs (A)
+**Check NAs (A)**
 ```{r}
 microplastics  %>%
   gg_miss_var()
 ```
 
-Make a map of the locations where fish were collected from.(A)
+**Make a map of the locations where fish were collected from.(A)**
 ```{r}
 register_stadiamaps("280bdc76-265c-4420-af16-f3fc7ab98211", write = FALSE)
 ```
@@ -65,7 +63,7 @@ ggmap(map_fish) +
   labs(x = "Longitude", y = "Latitude", title = "Collection Locations")
 ```
 
-Make each location that fish were collected from (long values) into a new row  (A)
+**Make each location that fish were collected from (long values) into a new row  (A)**
 ```{r}
 microplastics <- microplastics %>%
   mutate(station = case_when(
@@ -74,7 +72,7 @@ microplastics <- microplastics %>%
   ))
 ```
 
-Mutate the fish_id column to create a new column called species that has the full name of the species of fish collected. The first two letters of the fish_id correspond to the species of fish collected. (A)
+**Mutate the fish_id column to create a new column called species that has the full name of the species of fish collected. The first two letters of the fish_id correspond to the species of fish collected. (A)**
 ```{r}
 microplastics <- microplastics %>%
   mutate(code = substr(fish_id, 1, 2),
@@ -87,19 +85,19 @@ microplastics <- microplastics %>%
          ))
 ```
 
-make the blank box in particle_type into NA (A)
+**make the blank box in particle_type into NA (A)**
 ```{r}
 microplastics <- microplastics %>%
   mutate(particle_type = na_if(particle_type, ""))
 ```
 
-***Save our edited data frame as a new csv fil (A)
+**Save our edited data frame as a new csv file (A)**
 ```{r}
 #write_csv(microplastics, "microplastics.csv"))
 
 ```
    
-Build shiny app (A)
+**Build shiny app (A)**
 ```{r, eval=F, echo=T}
 ui <- dashboardPage(
   
@@ -143,7 +141,7 @@ server <- function(input, output, session) {
 shinyApp(ui, server)
 ```
 
-bar plot for count by station
+**bar plot for count by station**
 ```{r}
 microplastics %>%
   ggplot(aes(x= station, fill = color)) +
@@ -153,7 +151,7 @@ microplastics %>%
 ```
 
 
-Boxplot of sample mass by species (A)
+**Boxplot of sample mass by species (A)**
 ```{r}
 microplastics %>%
   ggplot(aes(x= species, y = net_sample_mass_g)) +
@@ -162,7 +160,7 @@ microplastics %>%
   labs(x = "Species", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Species")
 ```
 
-Boxplot of sample mass by station (A)
+**Boxplot of sample mass by station (A)**
 ```{r}
 microplastics %>%
   ggplot(aes(x= station, y = net_sample_mass_g)) +
@@ -171,7 +169,7 @@ microplastics %>%
   labs(x = "Species", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Species")
 ```
 
-box plot of weights of each particle type (A)
+**box plot of weights of each particle type (A)**
 ```{r}
 microplastics %>%
   filter(!is.na(particle_type)) %>%
@@ -181,7 +179,7 @@ microplastics %>%
   labs(x = "Particle Type", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Particle Type")
 ```
 
-Particles taken from each sample type by species (M)
+**Particles taken from each sample type by species (M)**
 ```{r}
 microplastics %>%
   ggplot(aes(x = sample_type, fill= sample_type)) + 
@@ -191,7 +189,7 @@ microplastics %>%
   labs(title = "Muscle vs GI Sampling By Species", x = NULL, y = "Particle Count") 
 ```
 
-Particle Types by Species (M)
+**Particle Types by Species (M)**
 ```{r}
 microplastics %>%
   group_by(species, particle_type) %>%
@@ -205,7 +203,7 @@ microplastics %>%
   theme(axis.text.x = element_text(angle = 30, hjust = 1))
 ```
 
-Everything was confirmed plastic (M)
+**Everything was confirmed plastic (M)**
 ```{r}
 microplastics %>%
   filter(!is.na(hot_needle), !is.na(particle_type)) %>%
@@ -218,7 +216,7 @@ microplastics %>%
   theme(axis.text.x = element_text(angle = 30, hjust = 1))
 ```
 
-Where plastic was found for each species in each sample (M)
+**Where plastic was found for each species in each sample (M)**
 ```{r}
 microplastics %>%
   group_by(species, sample_type) %>%
@@ -232,7 +230,7 @@ microplastics %>%
   theme_bw()
 ```
 
-Percentage of fihs with TWP by species (M)
+**Percentage of fihs with TWP by species (M)**
 ```{r}
 microplastics %>%
   group_by(fish_id, species) %>%
@@ -246,3 +244,4 @@ microplastics %>%
 ```
 
 (M) - Made/organized the presentation
+(A) - organized the repository/exploratory analysis

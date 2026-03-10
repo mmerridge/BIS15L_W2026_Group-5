@@ -51,12 +51,4 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
-```
 
-bar plot for count by station
-```{r}
-microplastics %>%
-  ggplot(aes(x= station, fill = color)) +
-  geom_bar(position = "dodge") +
-  theme_classic() +
-  labs(x = "Station", y = "Count of Fish Collected", title = "Count of Fish Collected by Station")
