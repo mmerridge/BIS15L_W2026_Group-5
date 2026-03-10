@@ -148,7 +148,7 @@ Boxplot of sample mass by species
 microplastics %>%
   ggplot(aes(x= species, y = net_sample_mass_g)) +
   geom_boxplot(fill = "aquamarine", color = "black") +
-  theme_classic() +
+  theme_bw() +
   labs(x = "Species", y = "Sample Mass (g)", title = "Boxplot of Sample Mass by Species")
 ```
 Boxplot of sample mass by station
