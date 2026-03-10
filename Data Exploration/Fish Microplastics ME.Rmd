@@ -20,7 +20,7 @@ library(ggplot2)
 ``` 
 
 ```{r}
-microplastics <- read.csv("fish_microplastics.csv")
+microplastics <- read.csv("microplastics.csv")
 ```
 
 ```{r}
@@ -28,11 +28,6 @@ microplastics <- microplastics %>%
   clean_names()
 ```
 
-```{r}
-microplastics %>%
-  glimpse()%>%
-  names() 
-```
 
 ```{r}
 microplastics <- microplastics %>%
@@ -91,6 +86,8 @@ microplastics <- microplastics %>%
          ))
 ```
 
+
+Build shiny app.
 ```{r, eval=F, echo=T}
 ui <- dashboardPage(
   
