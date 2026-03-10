@@ -32,7 +32,7 @@ ui <- dashboardPage(
   
   dashboardBody(
     
-    plotOutput("plot", width = "500px", height = "400px")
+    plotOutput("plot", width = "1000px", height = "800px")
     
   )
 )
@@ -44,7 +44,7 @@ server <- function(input, output, session) {
     microplastics %>%
       ggplot(aes(x = .data[[input$x]], fill = .data[[input$z]])) +
       geom_bar(position = "dodge") +
-      theme_classic() +
+      theme_bw(base_size = 23) +
       labs(x = input$x, fill = input$z)
     
   })
