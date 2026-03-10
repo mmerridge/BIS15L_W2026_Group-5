@@ -32,7 +32,7 @@ ui <- dashboardPage(
   
   dashboardBody(
     
-    plotOutput("plot", width = "500px", height = "400px")
+    plotOutput("plot", width = "1000px", height = "800px")
     
   )
 )
